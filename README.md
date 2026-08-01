@@ -78,7 +78,7 @@ Credit_Limit = Avg_Open_To_Buy + Total_Revolving_Bal
 
 A detailed cleaning report is available here:
 
-- [Data Cleaning Report](reports/Kredi_Karti_Musterileri_Veri_Temizleme_Raporu_Sade.pdf)
+- [Data Cleaning Report](reports/Kredi_Karti_Musterileri_Veri_Temizleme_Raporu.pdf)
 
 ## Feature Engineering
 
